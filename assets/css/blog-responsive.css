@@ -1,0 +1,171 @@
+/* ----------------------------------------------------------------------------------------
+* Author        : DevsCart
+* Template Name : KODIV | COVID-19 Medical Awareness Template
+* File          : Blog Responsive CSS File
+* Version       : 1.0
+* ----------------------------------------------------------------------------------------*/
+
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  .breadcrumb .breadcrumb-inner h2 {
+    font-size: 40px;
+  }
+  .breadcrumb .breadcrumb-inner p span,
+  .breadcrumb .breadcrumb-inner p a {
+    font-size: 16px;
+  }
+  .blog-details .blog-content h2 {
+    font-size: 36px;
+  }
+  .single-cmnt .comment-img {
+    width: 95px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .breadcrumb .breadcrumb-inner h2 {
+    font-size: 36px;
+  }
+  .breadcrumb .breadcrumb-inner p span,
+  .breadcrumb .breadcrumb-inner p a {
+    font-size: 14px;
+  }
+  .blog-details .blog-content h2 {
+    font-size: 32px;
+  }
+  .blog-details .blog-content p {
+    font-size: 15px;
+  }
+  .blog-details .blog-content h3 {
+    font-size: 22px;
+  }
+  .single-cmnt .comment-img {
+    width: 80px;
+  }
+  .single-cmnt .comment-reply {
+    width: 90%;
+  }
+  .single-cmnt .comment-reply .comment-reply-inner .comment-msg,
+  .single-cmnt .single-cmnt-inner .comment-msg {
+    font-size: 14px;
+  }
+  .single-cmnt .comment-reply .comment-reply-inner .comment-time, .single-cmnt .single-cmnt-inner .comment-time {
+    font-size: 12px;
+  }
+  .single-cmnt .comment-reply .comment-reply-inner .comment-reply-btn,
+  .single-cmnt .single-cmnt-inner .comment-reply-btn {
+    font-size: 13px;
+    padding: 5px 15px;
+  }
+  .single-cmnt {
+    margin-bottom: 35px;
+    padding-bottom: 10px;
+  }
+  .sidebar {
+    padding: 40px 20px;
+  }
+  .sidebar .categories a {
+    font-size: 14px;
+    letter-spacing: 0.2px;
+  }
+  .sidebar-social a, .contact-abt .contact-social a {
+    font-size: 14px;
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+  .breadcrumb .breadcrumb-inner h2 {
+    font-size: 30px;
+  }
+  .breadcrumb .breadcrumb-inner p span,
+  .breadcrumb .breadcrumb-inner p a {
+    font-size: 14px;
+  }.blog-details .blog-content h2 {
+    font-size: 30px;
+  }
+  .blog-details .blog-content p {
+    font-size: 14px;
+  }
+  .blog-details .blog-content h3 {
+    font-size: 20px;
+  }
+  .single-cmnt .comment-img {
+    width: 80px;
+  }
+  .single-cmnt .comment-reply .comment-reply-inner .comment-name, .single-cmnt .single-cmnt-inner .comment-name {
+    font-size: 18px;
+  }
+  .single-cmnt .comment-reply .comment-reply-inner .comment-time, .single-cmnt .single-cmnt-inner .comment-time {
+    font-size: 12px;
+    margin-bottom: 5px;
+  }
+  .single-cmnt .comment-reply .comment-reply-inner .comment-msg, .single-cmnt .single-cmnt-inner .comment-msg {
+    font-size: 14px;
+  }
+  .single-cmnt .comment-reply .comment-reply-inner .comment-reply-btn, .single-cmnt .single-cmnt-inner .comment-reply-btn {
+    font-size: 13px;
+    padding: 5px 15px;
+  }
+  .blog-grid .blog-grid-item .blog-info h3 {
+    font-size: 20px;
+    letter-spacing: 0.2px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 575px) {
+  .breadcrumb .breadcrumb-inner h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+  .breadcrumb {
+    padding: 0;
+  }
+  .breadcrumb .breadcrumb-inner p span,
+  .breadcrumb .breadcrumb-inner p a {
+    font-size: 13px;
+    padding-right: 15px;
+  }
+  .breadcrumb .breadcrumb-inner p span {
+    padding-left: 13px;
+  }
+  .blog-info .author, .blog-info .info-cmnt, .blog-info .date {
+    font-size: 13px;
+    letter-spacing: 0;
+  }
+  .blog-details .blog-content h2 {
+    font-size: 22px;
+  }
+  .blog-details .blog-content p {
+    font-size: 14px;
+  }
+  .blog-details .blog-content h3 {
+    font-size: 18px;
+  }
+  .single-cmnt .comment-img img {
+    display: none;
+}
+  .single-cmnt .comment-reply .comment-reply-inner .comment-name, .single-cmnt .single-cmnt-inner .comment-name {
+    font-size: 18px;
+  }
+  .single-cmnt .comment-reply .comment-reply-inner .comment-time, .single-cmnt .single-cmnt-inner .comment-time {
+    font-size: 12px;
+    margin-bottom: 5px;
+  }
+  .single-cmnt .comment-reply .comment-reply-inner .comment-msg, .single-cmnt .single-cmnt-inner .comment-msg {
+    font-size: 14px;
+  }
+  .single-cmnt .comment-reply .comment-reply-inner .comment-reply-btn, .single-cmnt .single-cmnt-inner .comment-reply-btn {
+    font-size: 13px;
+    padding: 5px 15px;
+  }
+  .blog-grid .blog-grid-item .blog-info h3 {
+    font-size: 18px;
+    letter-spacing: 0.2px;
+  }
+  .page-link {
+    font-size: 12px;
+  }
+}
